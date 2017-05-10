@@ -5,4 +5,4 @@
 - 入力画像に対して予測
 - 0~9の全てに対して予測値を表示
 
-`$python Classify.py [input image]`
+`$python classify.py [input image]`
